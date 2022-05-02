@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/Estdv/Lab10"
   },
   "keywords": [],
-  "author": "",
+  "author": "Esteban Del Valle",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/Estdv/Lab10"
   },
-  "homepage": "",
+  "homepage": "https://github.com/Estdv/Lab10",
   "devDependencies": {
     "@babel/core": "^7.13.15",
     "@babel/plugin-proposal-class-properties": "^7.13.0",
