@@ -1,0 +1,9 @@
+#Tablero{
+    display: flex;
+    flex-wrap: wrap;
+    width: 99%;
+    height: 98%;
+    position:absolute;
+    justify-content: space-around;
+    background-image: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+}
